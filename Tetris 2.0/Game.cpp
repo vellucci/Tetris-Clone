@@ -381,7 +381,7 @@ void Game::CheckLoss()
 		}
 		g_OldSquares.clear();
 
-		cout << "You fucking lose";
+		cout << "You lose";
 	}
 }
 
